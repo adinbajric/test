@@ -1,8 +1,8 @@
 import { combineReducers } from "redux";
 import shoppingReducer from "./shopping/shopping-reducers";
 
-console.log("test", "i jos nesto");
-console.log("test", "i jos nesto");
+console.log("lejla");
+console.log("lejla");
 
 const rootReducer = combineReducers({
   shop: shoppingReducer,
